@@ -1,0 +1,128 @@
+##Intro##
+
+* 5 Minute Intro Game - nice and simple
+* 5 Minutes of Slides 
+	* What do I mean by architecture - server and client side
+	* Why is this important to a tester
+		* Avoid scale panic - when you first see a system for example
+		* Get involved in early thinking around architecture, see risk
+		* If you are very lucky, add testability suggestions into those early discussions
+	* Sign post the structure
+		* Understand - 30 minutes
+		* Apply - 45 minutes
+		* Analyse - 1 hour
+		* Group exercises
+		* Pattern - Kolb plus a few mins for groups to share at the end
+		* Change groups please!
+		* Outputs on the walls please
+	* Practical Stuff
+		* Questions at any time
+		* Breaks anytime
+		* Fire exits blah
+
+##First Exercise - Visual Dictionary## (30 mins)
+
+Intro (5 mins)
+	* Mission - Create a visual dictionary of terminology used within the system architecture discipline as a reference point for subsequent exercises
+	* Learning Objectives
+		* Recognise the main conceptual layers that may exist within an architecture.
+		* Explore one layer per group and elucidate 5 terms within
+		* 3 ways your layer relates to the other layers explorded by the other groups.
+
+Exercise
+	* Explain steps - create a visual glossary
+	* Give an example of an output, just one word, not on the handout
+	* 3/4 groups - pick a layer each - storage/database, app/logic tier, web tier, network/loadbalancer
+
+Handouts
+	* Before - Map of terms for each layer, plus brief defs.
+	* After - Map of how layers relate to each other.
+
+Summarise Learning
+	* Attendees present back
+	* Me (briefly) - use objectives, show how they were met
+
+##Second Exercise - Apply## (45 mins)
+
+Intro
+	
+	Mission - apply the recognition gained in exercise 1 to build a testable map of an existing server side architecture from evidence and experimentation.
+	Learning Objectives
+		* Interpret multiple oracles of information to determine a previously unarticulated architecture
+		* Diagram the architecture using common architectural notations and visual dictionary from the first exercise
+		* Assess architectural evidence to show reliability of the oracles in use
+Exercise
+	* Explain steps - server side architecture
+	* Give an example output - maybe one of my Callcredit drawings
+	* Get them to piece together the puzzle from the evidence
+	* Render it however they want
+	* Identify oracles which might be most/least reliable
+
+Handouts
+	* Before
+		* Common architectural notation
+		* Business processes
+		* Business divisions
+		* Anecdotal evidence - some contradictory
+			* Developer Acccounts
+			* Bug Reports
+			* Press releases
+		* Technical documentation 
+		* Data Centre specs
+		* Performance Stats
+		* Have a jump host on a different site to stick in there
+		* A system like it to play with - maybe!
+	* After
+		* The real architecture!
+		* With a judgement on oracles and their fallibility
+
+
+Summarise Learning
+	* Attendees present back
+	* Me (briefly) - use objectives, show how they were met
+
+##Third Exercise - The Big Picture## (60 mins)
+
+Intro
+	
+	Mission - Using the information and skills gained in the last 2 exercises critique a proposed mobile app architecture for risk and testability.
+	Learning Objectives
+		* Interpret multiple oracles of information pertaining to the proposed architecture  
+		* Identify areas of potential technical and business risk within the proposed architecture
+		* Apply the principles of testability to the proposed architecture to enhance the testing effort
+
+Exercise
+	* Explain the steps
+	* 
+
+Handouts
+	* Before
+		* Technical documentation 
+		* Architect Views
+		* Data Centre specs
+		* Performance Stats
+		* Have a jump host on a different site to stick in there
+		* Testability principles nod to James Bach
+		* Testability ideas - split by architecture type (storage)
+
+	* After
+		* My test approach
+		* Areas where I would 
+
+
+
+Summarise Learning
+	* Attendees present back
+	* Me (briefly) - use objectives, show how they were met
+
+##Close##
+
+* Go back to the why
+* Summarise the three exercises
+* Show how the initial why has been met
+
+##Need##
+
+* Blu-tac
+* Post its
+* Flip charts

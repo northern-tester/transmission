@@ -1,0 +1,24 @@
+###Checklist###
+
+* Evidence:
+	* After
+		* The real architecture!
+		* With a judgement on oracles and their fallibility
+
+	* Before
+		* Common architectural notation
+		* Business processes
+		* Business divisions
+		* Anecdotal evidence - some contradictory
+			* Developer Acccounts
+			* Bug Reports
+			* Press releases
+		* Technical documentation 
+		* Data Centre specs
+		* Performance Stats
+		* Have a jump host on a different site to stick in there
+		* Loom on one host out of the three
+		* Billing replication
+		* Centralised DBA Team
+* Session:
+	* Make sure visual dictionary is on the wall

@@ -1,0 +1,11 @@
+###Checklist###
+
+* Print limited mindmap for 4 layers * 4 copies each
+* Print full mindmap for 4 layers * 4 copies for afterwards
+* 2 * A0 Sheets for * 4 layers
+* A4 Headers for each layer with brief defs - same as the mind map
+* Examples in top right for A0 sheets per layer
+	* Network - Proxy - Waiter knows what meals were ordered by who but the chef does not
+	* Web - DNS - mobile phone book - look up a name and get a number
+	* App - Resource Pool Management - Jet2 - must take seats at predetermined times.
+	* Storage - Indexes - Table of contents in a book
