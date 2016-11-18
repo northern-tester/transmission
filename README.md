@@ -25,11 +25,15 @@ __Objectives for this workshop:__
 
 __Running Order__
 
-* 00 Intro - Context Setting and Get to Know You - 10-15 mins
-* 01 Exercise 01 - Warm Up - Visual Dictionary - Pick a layer per team - 30-45 mins
-* 02 Exercise 02 - Puzzle - Put together an existing architecture from varied sources - 45-60 mins
-* 03 Excerise 03 - The Big Picture - Build risk and testability into the Puzzle - 45-60 mins
-* 04 Excerise 04 - Bonus - Do Exercise 3 again, but with a sketched mobile app architecture - 45-60 mins
+`Please allow between 3 and 5 hours for this exercise, depending on:`
+* `Knowledge of architecture concepts and terminology`
+* `How well they know each other`
+
+* 00 Intro - Context Setting and Get to Know You - 10-20 mins
+* 01 Exercise 01 - Warm Up - Visual Dictionary - Pick a layer per team - 30-60 mins
+* 02 Exercise 02 - Puzzle - Put together an existing architecture from varied sources - 45-75 mins
+* 03 Excerise 03 - The Big Picture - Build risk and testability into the Puzzle - 45-75 mins
+* 04 Excerise 04 - Bonus - Do Exercise 3 again, but with a sketched mobile app architecture - 45-75 mins
 * 05 Outro - Closing Remarks
 * 99 Notes and Reading - Bits and bats of reading material and notes
 
