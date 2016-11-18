@@ -29,6 +29,8 @@ __Running Order__
 * `Knowledge of architecture concepts and terminology`
 * `How well they know each other`
 
+__Exercise Breakdown__
+
 * 00 Intro - Context Setting and Get to Know You - 10-20 mins
 * 01 Exercise 01 - Warm Up - Visual Dictionary - Pick a layer per team - 30-60 mins
 * 02 Exercise 02 - Puzzle - Put together an existing architecture from varied sources - 45-75 mins
