@@ -1,6 +1,6 @@
-### _Testing the Bigger Picture - Architecture_
+# Revealing Architectural Testability
 
-__Description of Workshop__
+## Description of Workshop
 
 A question I often ask testers is 'can you draw me the architecture of the systems that you test?' The answer is often *stares blankly.* I believe this is a core competency for an effective tester and the answer should be (more often than not) 'of course I can!'`
 
