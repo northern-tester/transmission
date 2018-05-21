@@ -31,8 +31,9 @@ __Running Order__
 
 __Exercise Breakdown__
 
-* 00 Intro - Context Setting and Get to Know You - 10-20 mins
-* 01 Exercise 01 - Warm Up - Visual Dictionary - Pick a layer per team - 30-60 mins
+* 00 Intro - Context Setting and Get to Know You - Hard to Test and Attempted Remedy -0 10-20 mins
+* IF - Group is new to architecture - slider results are less than 5 for the most part, play exercise X for Visual Dictionary
+* 01 Exercise 01 - Warm Up - Smells of Testable Architecture - Pick a layer per team - 30-60 mins
 * 02 Exercise 02 - Puzzle - Put together an existing architecture from varied sources - 45-75 mins
 * 03 Excerise 03 - The Big Picture - Build risk and testability into the Puzzle - 45-75 mins
 * 04 Excerise 04 - Bonus - Do Exercise 3 again, but with a sketched mobile app architecture - 45-75 mins
