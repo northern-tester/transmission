@@ -38,12 +38,11 @@ __Exercise Breakdown:__
 * IF - Group is new to architecture - slider results are less than 5 for the most part, play exercise X for Visual Dictionary.
 * 01 Exercise 01 - Warm Up - Smells of Testable Architecture - 20-40 mins
 * 02 Exercise 02 - Puzzle - Put together an existing architecture from varied sources - 45-75 mins
-* 03 Excerise 03 - Canvas - Build risk and testability tactics into the Puzzle - 45-75 mins
+* 03 Excerise 03 - Canvas - Build a coherent picture of testability challenges - 45-75 mins
 * 04 Excerise 04 - Migration - With a new scenario, redesign architecture, risks and tactics - 45-75 mins
 * 05 Excerise 05 - Infinite - Take a number of future features for the perform a testability kick off - 20-40 mins
 * IF - Group has finished all exercises, introduce a micro app architecture and repeat canvas
 * 06 Outro - Closing Remarks
-* 99 Notes and Reading - Bits and bats of reading material and notes
 
 __About Me:__
 
