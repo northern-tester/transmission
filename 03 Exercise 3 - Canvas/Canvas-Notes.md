@@ -18,7 +18,7 @@ In order to determine a way forward to improving testability, a holistic view of
 * In our groups of 5 again
 * Using a handout with descriptions of adjacent teams, review the challenge of how other teams impact testability - do the target exercise
 * Using a handout of dependent systems, including 3rd party services and internal systems, add to a risk matrix with downtime, recovery, mockability, documentation
-* Using handouts of potential layered risks and remedies by effort.
+* Using handouts of potential layered risks and interfaces by effort.
 * Create a Now Next Later strategy for improvement.
 
 ## To create
