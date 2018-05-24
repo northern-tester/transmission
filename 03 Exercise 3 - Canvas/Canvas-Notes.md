@@ -23,8 +23,8 @@ In order to determine a way forward to improving testability, a holistic view of
 
 ## To create
 
-* Handout - describing adjacent teams
-* Handout - describing third parties
+* Handout - describing adjacent teams 
+* Handout - describing adjacent systems incl 3rd parties
 * Handout - layered risks and interfaces
 * Handout - small, medium, large remedies for decomposability, simplicity, observability and controllability problems.
 * Slides for flow purposes
