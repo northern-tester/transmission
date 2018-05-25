@@ -2,7 +2,7 @@
 
 ## Activity Mission
 
-Reinforce some of the previous techniques with an example introducing a new context.
+Reinforce the techniques in Puzzle and Canvas with examples introducing a new context using cloud technologies.
 
 ## Session Objectives
 
