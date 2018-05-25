@@ -6,7 +6,7 @@ To assist the attendees to maintain their focus on testability throughout the pr
 
 ## Session Objectives
 
-* Recognise the roles that may be at play within a new feature or porduct conversation.
+* Recognise the roles that may be at play within a new feature or product conversation.
 * Understand that the question 'how will we test this need further depth' is limited in scope and often needs extra depth.
 
 ## Method
