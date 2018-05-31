@@ -19,10 +19,10 @@ To assist the attendees to maintain their focus on testability throughout the pr
   * Product Owner who just wants to deliver
   * Scrum Master who wants to include all points of view
 * Pick up a scenario from the following:
-  * php upgrade from 5 to 7
+  * MySQL upgrade from 5.5 to 8
   * New 3rd party integration
   * Retiring the batch solution
-  * New load balancing rules
+  * New load balancing rules for certain IP addresses
 
 ## To create
 
