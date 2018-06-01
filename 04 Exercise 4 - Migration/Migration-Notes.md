@@ -14,7 +14,7 @@ Reinforce the techniques in Puzzle and Canvas with examples introducing a new co
 * Introduce a scenario, disastrous TV campaign forces architectural review.
 * In AWS to autoscale the web layer by instances, need to consider timings, instance sizes. new AWS load balancer
 * Update testability canvas for this new circumstance.
-* Next, tease out certain services into lambda as they need to scale much larger! Also rewriting these in go, as it is now the native lambda language.
+* Next, tease out certain services into lambda as they need to scale much larger! Also rewriting these in java, as it is now the native lambda language.
 
 ## To create
 
