@@ -11,11 +11,11 @@ The workshop requires:
 * A0 Paper or Large Writable Wall Spaces
 * Post It Notes
 * Your favourite pens
-* Scales to about 2 teams per facilitator 
+* Scales to about 2 teams per facilitator
 * About 4 people per team works well
 * Effort
 * Questions
-* Within each Exercise Folder (apart from the Warm Up), there are Handouts and Solutions folders. Print the handouts, done give out the solutions. ;)
+* Within each Exercise Folder (apart from the Warm Up), there are Handouts and Solutions folders. Print the handouts, dont give out the solutions. ;)
 
 __Objectives for this workshop:__
 
@@ -39,8 +39,8 @@ __Exercise Breakdown:__
 * 01 Exercise 01 - Warm Up - Smells of Testable Architecture - 20-40 mins
 * 02 Exercise 02 - Puzzle - Put together an existing architecture from varied sources - 45-75 mins
 * 03 Excerise 03 - Canvas - Build a coherent picture of testability challenges - 45-75 mins
-* 04 Excerise 04 - Migration - With a new scenario, redesign architecture, risks and tactics - 45-75 mins
-* 05 Excerise 05 - Infinite - Take a number of future features for the perform a testability kick off - 20-40 mins
+* 04 Excerise 04 - Infinite - Take a number of future features for the perform a testability kick off - 20-40 mins
+* 05 Excerise 05 - Migration - With a new scenario, redesign architecture, risks and tactics - 45-75 mins
 * IF - Group has finished all exercises, introduce a micro app architecture and repeat canvas
 * 06 Outro - Closing Remarks
 
