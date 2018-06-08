@@ -11,13 +11,12 @@ The workshop requires:
 * A0 Paper or Large Writable Wall Spaces
 * Post It Notes
 * Your favourite pens
-* Scales to about 2 teams per facilitator
-* About 4 people per team works well
+* 4 or 5 people per team works well
 * Effort
 * Questions
 * Within each Exercise Folder (apart from the Warm Up), there are Handouts and Solutions folders. Print the handouts, dont give out the solutions. ;)
 
-__Objectives for this workshop:__
+### Objectives for this workshop
 
 * Attendees can recognise and explain the load balancing, web, API, database and shared access networks architectural layers
 * Attendees can recognise and explain the impact of cloud architectures on testing and testability concerns
@@ -25,14 +24,14 @@ __Objectives for this workshop:__
 * Attendees can identify key risk points within an architecture and build a context sensitive approach to testing
 * Attendees can apply models of testability to identified risks to propose enhancements
 
-__Running Order:__
+### Running Order
 
 Please allow between 5 and 7 hours for this tutorial, depending on:
 
-* `Knowledge of architecture concepts and terminology`
-* `How well they know each other`
+* Knowledge of architecture concepts and terminology
+* How well they know each other
 
-__Exercise Breakdown:__
+### Exercise Breakdown
 
 * 00 Intro - Context Setting and Get to Know You - Hard to Test and Attempted Remedy - plus comfort with architecture 10-20 mins
 * IF - Group is new to architecture - slider results are less than 5 for the most part, play exercise X for Visual Dictionary.
@@ -44,6 +43,6 @@ __Exercise Breakdown:__
 * IF - Group has finished all exercises, introduce a micro app architecture and repeat canvas
 * 06 Outro - Closing Remarks
 
-__About Me:__
+### About Me
 
 I'm a continuously learning tester with a penchant for getting involved in all aspects of developing people and products. I used to be a fully fledged consultant with The Test People, veteran of various engagements encompassing testing, performance engineering and automation. Now I'm in the start up world, heavily involved in mobile product development, from the ground up. I also speak, coach and contribute to the local tech community in Leeds. I'm quite busy but always have time for a question, usually answered with another question. I have a blog at <http://testingisbelieving.blogspot.co.uk/> too, oh and I tweet from @northern_tester. :-)
